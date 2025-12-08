@@ -1,0 +1,24 @@
+// Custom Brockmann font (matching sun2wheel.ch corporate identity)
+@font-face {
+  font-family: 'Brockmann';
+  src: url('/fonts/brockmann-medium.ttf') format('truetype'),
+       url('/fonts/brockmann-medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+// Override body font
+body {
+  font-family: Brockmann, 'SF Pro Display', Inter, -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
+
+// Override headings
+h1, h2, h3, h4, h5, h6 {
+  font-family: Brockmann, 'SF Pro Display', Inter, -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
+
+// Navigation
+.navbar, nav {
+  font-family: Brockmann, 'SF Pro Display', Inter, -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
