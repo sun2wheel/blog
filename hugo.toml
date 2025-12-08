@@ -326,7 +326,7 @@ theme = "hugo-blog-awesome"
     weight = 20
   [[Languages.de.menu.main]]
     pageRef="about"
-    name = 'Über mich'
+    name = 'Über uns'
     url = '/about/'
     weight = 30
 
