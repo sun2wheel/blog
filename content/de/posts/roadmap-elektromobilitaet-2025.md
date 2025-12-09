@@ -5,7 +5,7 @@ image: "/images/blog/roadmap-elektromobilitaet.png"
 toc: false
 ---
 
-![Roadmap Elektromobilität 2025](/images/blog/roadmap-elektromobilitaet.png)
+![Roadmap Elektromobilität 2025](/static/images/blog/roadmap-elektromobilitaet.png)
 
 Die nationale Roadmap für Elektromobilität in der Schweiz ist die neue, grossangelegte Leitlinie, um eine flächendeckende Ladeinfrastruktur bis 2025 aufzubauen.
 

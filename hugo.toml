@@ -1,5 +1,5 @@
 title = "sun2wheel Blog"
-baseURL = 'https://sun2wheel.github.io/blog/'
+baseURL = 'https://blog.sun2wheel.com/'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
