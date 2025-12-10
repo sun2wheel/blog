@@ -16,7 +16,7 @@ The technology newly developed by sun2wheel bundles numerous PV systems througho
 
 ## Surprisingly Lucrative Returns in Test Operation
 
-Since June 2025, the system has been in productive use within Swissgrid's PV4Balancing pilot project. The results are impressive: The partners achieved around CHF 10 in additional compensation per installed kilowatt of capacity. This increases the return on a photovoltaic system by over 20 percent. The electricity from photovoltaics is only curtailed for 4 to 8 hours per month, mainly on weekends or during changeable weather. "Given declining feed-in tariffs, our customers now earn more with flexibility than with pure grid feed-in. So it's not surprising that we already have more than 100 large-scale systems under contract," explains Fabian Gloor, Sales Director at convoltas.
+Since June 2025, the system has been in productive use within Swissgrid's [PV4Balancing](https://www.swissgrid.ch/en/home/newsroom/blog/2025/stable-grid-operation-with-high-solar-power-production.html) pilot project. The results are impressive: The partners achieved around CHF 10 in additional compensation per installed kilowatt of capacity. This increases the return on a photovoltaic system by over 20 percent. The electricity from photovoltaics is only curtailed for 4 to 8 hours per month, mainly on weekends or during changeable weather. "Given declining feed-in tariffs, our customers now earn more with flexibility than with pure grid feed-in. So it's not surprising that we already have more than 100 large-scale systems under contract," explains Fabian Gloor, Sales Director at convoltas.
 
 ![Example of a curtailed system](/images/blog/Drosselung_PVA.png)
 *Example of a curtailed system*
