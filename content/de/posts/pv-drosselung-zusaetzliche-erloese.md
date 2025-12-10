@@ -12,7 +12,7 @@ Die Schweiz hat ambitionierte Ziele beim Ausbau der Solarenergie und steuert auf
 
 ## Solarstromüberschuss vom Problem zur Chance
 
-Die von sun2wheel neu entwickelte Technologie bündelt zahlreiche PV-Anlagen in der ganzen Schweiz zu einem grossen virtuellen Kraftwerk. sun2wheel und convoltas vermarkten dieses Potenzial unter dem Namen «Profit-Plus» erstmals systematisch. «Bei Stromüberschuss im Netz drosseln wir PV-Anlagen und machen daraus ein lukratives Geschäftsmodell für Anlagenbetreiber», sagt Sandro Schopfer, CEO und Mitbegründer von sun2wheel.
+Die von sun2wheel neu entwickelte Technologie bündelt zahlreiche PV-Anlagen in der ganzen Schweiz zu einem grossen virtuellen Kraftwerk. sun2wheel und convoltas vermarkten dieses Potenzial unter dem Namen [Profit-Plus](https://profitplus.convoltas.ch/) erstmals systematisch. «Bei Stromüberschuss im Netz drosseln wir PV-Anlagen und machen daraus ein lukratives Geschäftsmodell für Anlagenbetreiber», sagt Sandro Schopfer, CEO und Mitbegründer von sun2wheel.
 
 ## Rendite im Test-Betrieb überraschend lukrativ
 
@@ -41,23 +41,11 @@ Die sogenannte 3%-Regel erlaubt es Verteilnetzbetreibern in der Schweiz, die Ein
 
 </div>
 
-### Medienkontakte
-
-**sun2wheel AG**
-Karin Schäfer, Leitung Vertrieb, Marketing und Finanzen
-T +41 61 927 55 66 | M +41 76 522 71 69
-karin.schaefer@sun2wheel.ch
-
-**convoltas AG**
-Fabian Gloor, Mitglied der Geschäftsleitung
-T +41 41 768 20 00 | M +41 78 688 38 40
-fg@convoltas.ch
-
----
 
 ### Über sun2wheel AG
 
 Die 2020 gegründete sun2wheel AG entwickelt Energiemanagementsysteme für die intelligente Vernetzung dezentraler Energieressourcen. Die Plattform optimiert Eigenverbrauch und Lastmanagement und ermöglicht gleichzeitig die Vermarktung von Flexibilität in virtuellen Kraftwerken. sun2wheel verbindet PV-Anlagen, Speicher und E-Mobilität zu einem integrierten Energieökosystem. [www.sun2wheel.ch](https://www.sun2wheel.ch)
+
 
 ### Über convoltas AG
 
