@@ -6,7 +6,7 @@ toc: false
 
 **From Loss to Revenue Stream: PV Curtailment Becomes a Lucrative Business Model**
 
-*Kriens/Immensee, December 11, 2025* – What was previously considered a nuisance in the industry is now becoming a new source of income: The curtailment of photovoltaic systems is developing into a lucrative business for operators. sun2wheel AG and convoltas AG demonstrate with a new marketing model that flexible PV systems can achieve multiples of the usual feed-in tariffs in the balancing energy market. This opens a new chapter in the Swiss solar industry.
+*Kriens/Immensee, December 11, 2025c* – What was previously considered a nuisance in the industry is now becoming a new source of income: The curtailment of photovoltaic systems is developing into a lucrative business for operators. sun2wheel AG and convoltas AG demonstrate with a new marketing model that flexible PV systems can achieve multiples of the usual feed-in tariffs in the balancing energy market. This opens a new chapter in the Swiss solar industry.
 
 Switzerland has ambitious goals for expanding solar energy and is heading toward a fivefold increase in solar power production. On sunny days, systems already produce more electricity than the grids can absorb. Instead of curtailing these surpluses without compensation, operators can now market their flexibility in a targeted manner and get paid for it.
 
@@ -41,17 +41,6 @@ The so-called 3% rule allows distribution grid operators in Switzerland to perma
 
 </div>
 
-### Media Contacts
-
-**sun2wheel AG**
-Karin Schäfer, Head of Sales, Marketing and Finance
-T +41 61 927 55 66 | M +41 76 522 71 69
-karin.schaefer@sun2wheel.ch
-
-**convoltas AG**
-Fabian Gloor, Member of the Executive Board
-T +41 41 768 20 00 | M +41 78 688 38 40
-fg@convoltas.ch
 
 ---
 
