@@ -51,7 +51,7 @@ The collaboration between sun2wheel and convoltas in the "Profit-Plus" product s
 
 Negative electricity prices arise when more electricity is offered than demanded on the electricity market. This can be the case particularly on sunny days with high solar power production and simultaneously low consumption. With the new compensation logic, the timing of feed-in becomes more important: those who feed in without coordination during low or negative market prices may suffer economic disadvantages. At the same time, opportunities arise for systems that can be controlled flexibly.
 
-Intelligent systems like "Profit-Plus" detect such situations automatically. They can temporarily reduce feed-in, make electricity usable locally, or market flexibility on the balancing energy market.
+Intelligent systems like ["Profit-Plus"](https://profitplus.convoltas.ch/) detect such situations automatically. They can temporarily reduce feed-in, make electricity usable locally, or market flexibility on the balancing energy market.
 
 </div>
 

@@ -51,7 +51,7 @@ Die Zusammenarbeit von sun2wheel und convoltas im Produkt «Profit-Plus» zeigt,
 
 Negative Strompreise entstehen, wenn im Strommarkt mehr Strom angeboten als nachgefragt wird. Das kann insbesondere an sonnigen Tagen mit hoher Solarstromproduktion und gleichzeitig tiefem Verbrauch der Fall sein. Mit der neuen Vergütungslogik wird der Zeitpunkt der Einspeisung wichtiger: Wer bei tiefen oder negativen Marktpreisen unkoordiniert einspeist, kann wirtschaftliche Nachteile erleiden. Gleichzeitig entstehen Chancen für Anlagen, die flexibel gesteuert werden können.
 
-Intelligente Systeme wie «Profit-Plus» erkennen solche Situationen automatisch. Sie können die Einspeisung zeitlich begrenzt reduzieren, Strom lokal nutzbar machen oder Flexibilität am Regelenergiemarkt vermarkten.
+Intelligente Systeme wie [«Profit-Plus»](https://profitplus.convoltas.ch/) erkennen solche Situationen automatisch. Sie können die Einspeisung zeitlich begrenzt reduzieren, Strom lokal nutzbar machen oder Flexibilität am Regelenergiemarkt vermarkten.
 
 </div>
 
