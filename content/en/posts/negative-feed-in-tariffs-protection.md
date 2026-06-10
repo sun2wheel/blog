@@ -1,6 +1,6 @@
 ---
 title: "Negative-Price Protection for Solar"
-date: 2026-06-11
+date: 2026-06-10
 toc: false
 ---
 
